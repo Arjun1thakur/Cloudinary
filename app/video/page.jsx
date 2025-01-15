@@ -1,4 +1,4 @@
-import CldVideo from "../components/CldVideo";
+import CldVideo from "@/app/components/CldVideo";
 
 export default function Home() {
   return (

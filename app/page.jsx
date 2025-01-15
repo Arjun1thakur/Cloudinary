@@ -1,6 +1,6 @@
 "use client";
 import { CldImage } from "next-cloudinary";
-import CloudinaryWrapper from "./components/cloudinarywrapper";
+import CloudinaryWrapper from "@/components/cloudinarywrapper";
 
 export default function Home() {
   return (

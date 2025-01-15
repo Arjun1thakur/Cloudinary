@@ -1,4 +1,4 @@
-import CloudinaryWrapper from "../components/cloudinarywrapper";
+import CloudinaryWrapper from "@/app/components/CloudinaryWrapper";
 
 export default function Home() {
   return (
